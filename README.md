@@ -1,3 +1,6 @@
+# Quote Generator App
+![quote](https://user-images.githubusercontent.com/66617748/187074031-7ba0577a-acf0-4943-a157-f869b6f0f420.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
